@@ -1,0 +1,1 @@
+include ':app', ':IntentApp', ':ActivityForResultApp', ':SystemIntentsApp', ':SimpleFragmentApp', ':BrowserApp', ':mybrowserapi14'
